@@ -41,8 +41,6 @@ project_fg_color: ''
 
 #### Step 1: The Quiz
 
-![title asks "What would you like to protect?" each of the 9 options has an icon and a label](/uploads/og-q1.jpg "original experience")
-
 * Currently an unordered group of 9 items.
   * Studies have shown people make decisions easier with less choices.
   * It’s difficult to predict content when there is no order.
@@ -51,15 +49,13 @@ project_fg_color: ''
 
 #### Step 2: Recommendation Page
 
-![Screenshot of a results with 2 equally weighted suggestions](/uploads/og-results.jpg "combination trademark copyright")
-
 * Data/reasoning behind the results is not included. Users expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product.
 * Pricing and packages and LegalZoom’s role are not clear on results page.
 * Do users expect to find out what protection our IP services offer, timelines, and level of effort?
 
 ### Data
 
-* \~30% get the “Trademark” result, 15% get the “Copyright” result, and 14% of people get the combination “Trademark and Copyright” result ![](/uploads/combophtb.jpg "do you remember the Das Racist song about the combination Pizza Hut Taco Bell?"); the numbers get smaller from there.
+* \~30% get the “Trademark” result, 15% get the “Copyright” result, and 14% of people get the combination “Trademark and Copyright” result; the numbers get smaller from there.
   * Either there is less appetite for patents or does the experience suppresses those choices.
 * About 20% of the traffic clicked back or on the logo to go to the homepage. This tells me they didn’t want to answer the question, “What would you like to protect?” but also didn’t want to leave LegalZoom.
   * The options might be too specific (they don’t see exactly what they are trying to protect) or too difficult to understand (what exactly counts as an industrial design?).
@@ -86,15 +82,11 @@ I picked about 20 commonly protected works (e.g. photograph, process, book, inve
 
 #### Phase 1: Open
 
-![](/uploads/cs-open.png)
-
 * Participants were tasked to create and name their own categories.
 * "Art" cards were overwhelmingly the easiest for folks categorize. Second was "business" - sometimes called “branding.”
 * Seeing all the cards in groups helped solidify their classification _(which reminds me of partitioning/the power of groups from the workshop)._
 
 #### Phase 2: Hybrid
-
-![](/uploads/cs-hybrid.png)
 
 * I provided 3 categories from the Open results. Two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
 * Works that would require patents emerged as the hardest IP to categorize. (Low patent numbers site analytics too).
@@ -105,8 +97,6 @@ The variations are content-driven; the team decided to use the existing question
 
 #### Version 1: Optimized
 
-![Screen with 6 choices of IP specimen to protect](/uploads/hmd-v1.png "Prototype V.1")
-
 * Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
 * **Hypotheses:**
   * Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
@@ -114,16 +104,12 @@ The variations are content-driven; the team decided to use the existing question
 
 #### Version 2: Experimental
 
-![Two screens are shown, the first asks for role, the second asks what specimen will be protected.](/uploads/hmd-V2.png "Prototype V.2")
-
 * Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
 * **Hypotheses:**
   * If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
   * We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
 
 #### Recommendation Page
-
-![](/uploads/results.png)
 
 * Added clearer recommendation language, pricing, why consider a product, clear ways to get help, and educational content.
 * Utilized pricing card, attorney/customer support, and article components from the design system.
