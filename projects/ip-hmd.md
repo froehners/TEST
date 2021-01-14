@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Painted Pineapple
+title: Exploring How to Recommend IP Protection
 date: 2019-02-06
 categories:
 - photography
@@ -9,8 +9,6 @@ project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
-
 # Background
 
 * Broadly, our research has shown people want quizzes or recommendation wizards to narrow down the different legal services they may need.
@@ -42,6 +40,8 @@ project_fg_color: "#36B5EF"
 ### Behavioral Design Workshop Evaluation
 
 #### Step 1: The Quiz
+
+![](/uploads/og-q1.jpg)
 
 * Currently an unordered group of 9 items.
   * Studies have shown people make decisions easier with less choices.
