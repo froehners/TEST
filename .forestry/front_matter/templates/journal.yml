@@ -1,5 +1,5 @@
 ---
-label: Journal
+label: Notes
 hide_body: false
 fields:
 - type: text
@@ -32,8 +32,8 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Stephanie Froehner
   label: Author
-  default: Nichlas W. Andersen
+  default: Stephanie Froehner
 pages:
 - journal/macos-development-environment.md

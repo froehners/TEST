@@ -11,8 +11,9 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Journal</g-link>
-                <g-link class="nav__link" to="/contact">Say Hi!</g-link>
+                <g-link class="nav__link" to="/journal">Notes</g-link>
+                <g-link class="nav__link" to="_blank">About</g-link>
+                <g-link class="nav__link" to="/contact">Contact</g-link>
             </nav>
         </div>
     </header>
