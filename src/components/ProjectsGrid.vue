@@ -53,7 +53,8 @@ export default {
   margin: 2rem 0 1rem 0;
 }
 .categories {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
+  font-weight: 700
   color: var(--color-contrast-1);
 }
 .category {
