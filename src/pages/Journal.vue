@@ -4,7 +4,7 @@
     <div class="container">
       <div class="journal-hero">
         <h1 class="journal-header">
-          "The things that we love tell us who we are." 
+          “ The things that we love tell us who we are.” 
         </h1>
         <p>- Saint Thomas Aquinas</p>
       </div>
