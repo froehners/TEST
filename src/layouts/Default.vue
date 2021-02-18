@@ -79,7 +79,6 @@ img {
 
 .label {
   display: block;
-  font-weight: 700;
   margin-bottom: 0.5rem;
 }
 </style>
