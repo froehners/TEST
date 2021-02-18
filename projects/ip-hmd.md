@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Exploring How to Recommend IP Protection
+title: Delete Exploring How to Recommend IP Protection
 date: 2019-02-06
 categories:
 - photography
