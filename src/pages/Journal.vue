@@ -60,6 +60,11 @@ export default {
   padding: 0;
   margin: 0;
 }
+.journal-hero p {
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-align: right;
+}
 .journal-post {
   display: block;
   padding: 2rem 0;
