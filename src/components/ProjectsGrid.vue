@@ -54,7 +54,7 @@ export default {
 }
 .categories {
   font-size: 0.9rem;
-  font-weight: 700
+  font-weight: 700;
   color: var(--color-contrast-1);
 }
 .category {
