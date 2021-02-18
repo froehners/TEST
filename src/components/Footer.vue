@@ -18,7 +18,8 @@ export default {
 
 <style scoped>
 .footer {
-    font-size: 0.8rem;
+    font-size: 0.875rem;
+    font-weight: 700;
     padding: 6rem 0;
 }
 </style>
