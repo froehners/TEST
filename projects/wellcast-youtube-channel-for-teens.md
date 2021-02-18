@@ -1,5 +1,5 @@
 ---
-date: 2021-02-18
+date: 2013-01-01
 thumbnail: "/uploads/wellcast.gif"
 title: WellCast Youtube Channel for Teens
 categories:
@@ -7,6 +7,7 @@ categories:
 - Visual Design
 project_bg_color: ''
 project_fg_color: ''
+subtitle: Animated YouTube Wellness Show
 
 ---
 [WellCast](https://www.youtube.com/watchwellcast) was a twice-a-week animated show that explored the physical, mental and emotional paths to wellness. The show began as journaling exercises based on wellness trends, but quickly grew into a show for anxious youngsters unsure about growing up.
@@ -29,5 +30,4 @@ My visual design roles in this project include designing thumbnails for each You
 
 ![Screenshot of a colorful and animated website.](/uploads/wellcasttumblr.webp "WellCast's Website")
 
-* **Date:** 2013
-* **Client:** Mahalo
+* **Employer:** Mahalo
