@@ -25,8 +25,9 @@ export default {
 }
 
 .hero-title {
-    font-size: 3rem;
-    font-weight: 700;
+    font-family: 'Pirata One', cursive;
+    font-size: 8rem;
+    font-weight: 400;
     padding: 0;
     margin: 0 0 2rem 0;
 }
@@ -37,10 +38,9 @@ export default {
 }
 .hero-subtitle {
     font-size: 1.15em;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 1.68;
     padding: 0;
     margin: 0;
-    opacity: 0.6;
 }
 </style>
