@@ -54,8 +54,9 @@ export default {
   color: var(--color-contrast);
 }
 .journal-header {
-  font-size: 3rem;
-  font-weight: 700;
+  font-family: 'Pirata One', cursive;
+  font-size: 6rem;
+  font-weight: 400;
   padding: 0;
   margin: 0;
 }
@@ -80,11 +81,15 @@ export default {
   padding: 0;
 }
 .journal-title {
-  font-size: 2rem;
+  font-family: 'Pirata One', cursive;
+  font-weight: 400;
+  font-size: 3rem;
   color: var(--color-contrast);
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
+  font-weight: 500;
+  font-size: 1.125rem;
 }
 
 @media (min-width: 560px) {
