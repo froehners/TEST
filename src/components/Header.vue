@@ -61,8 +61,9 @@ export default {
     text-transform: uppercase;   
 }
 .nav > * {
-    font-size: 0.9rem;
-    font-weight: 600;
+    font-family: 'Pirata One', cursive;
+    font-size: 1.5rem;
+    font-weight: 400;
     text-decoration: none;
     margin-top: 4px;
     margin-right: 3rem;
