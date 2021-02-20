@@ -10,7 +10,7 @@
 
             <div class="categories-container">
               <div class="categories">
-                <span class="label">Categories</span>
+                <span class="label">Roles</span>
                 <span 
                   class="category"
                   v-for="(category, index) in $page.post.categories" 
@@ -86,5 +86,10 @@ export default {
 }
 .category:last-of-type:after {
   content: '';
+}
+.label {
+  font-family: Pirata One,cursive;
+  -webkit-text-stroke: 1px #FF8C8C;
+  font-size: 3rem;
 }
 </style>
