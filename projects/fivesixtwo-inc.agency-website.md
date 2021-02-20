@@ -121,4 +121,4 @@ I took the findings from Round 1 and I used Bootstrap to make a [larger website]
 I worked with a developer to make the Bootstrap prototype a "real" website. FiveSixTwo brought in a Sales Director to add more content, a blog, and a Field Service landing page/site experience.
 
 * **Employer:** FiveSixTwo, Inc.
-* **Additional Categories:** Interaction Design, Prototyping, User Testing
+* **Additional Roles:** Interaction Design, Prototyping, User Testing

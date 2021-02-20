@@ -52,4 +52,4 @@ I fell in love with Material Design (which was fairly new at the time) designing
 _Note: the app has been updated since I left the company._
 
 * **Employer:** Internet Brands
-* **Additional Categories:** Research, Usability Testing
+* **Additional Roles:** Research, Usability Testing

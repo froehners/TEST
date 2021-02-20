@@ -73,7 +73,7 @@ export default {
 .project-info {
   display: flex;
   flex-wrap: wrap;
-  font-size: 0.8rem;
+  font-size: 0.875rem;
 }
 .project-info > div {
   margin-right: 4rem;
