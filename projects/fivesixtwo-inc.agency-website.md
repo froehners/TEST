@@ -21,8 +21,8 @@ FiveSixTwo wanted to build a web presence and grow their clientele. I adapted a 
 
 My CEO and I discussed long-term goals for the company's website and chose our target.
 
-1. Target: Get more clients
-2. Focus: Client makes contact (fills out the form or makes a phone call).
+* Target: Get more clients
+* Metric: Client makes contact (fills out the form or makes a phone call).
 
 ## Day 2: Rapid Sketching Solutions on Paper
 
