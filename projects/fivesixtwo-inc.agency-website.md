@@ -15,14 +15,16 @@ FiveSixTwo wanted to build a web presence and grow their clientele. I adapted a 
 
 ![The FiveSixTwo website is shown on 4 different devices.](/uploads/562-1.png "FiveSixTwo website preview")
 
-### Day 1: Map out the Problem and Choose a Focus
+# Sprint Process
+
+## Day 1: Map out the Problem and Choose a Focus
 
 My CEO and I discussed long-term goals for the company's website and chose our target.
 
 1. Target: Get more clients
 2. Focus: Client makes contact (fills out the form or makes a phone call).
 
-### Day 2: Rapid Sketching Solutions on Paper
+## Day 2: Rapid Sketching Solutions on Paper
 
 I spent the next phase sketching different ideas.
 
@@ -34,36 +36,41 @@ We decided to explore the following:
   * Our process/our values
   * Products/technology expertise
 
-### Day 3: Storyboard and Pick Solutions
+## Day 3: Storyboard and Pick Solutions
 
 We narrowed down the sketches to 3 different ideas.
 
-1. **Prototype 1: Experimental Form**
-   * A large conversational form instead of a hero image
-   * Quick description of our process, how it relates to a client
-   * Testimonials
-   * About Us with photo
-2. **Prototype 2: Process Oriented**
-   * Shows how we work and what we value
-   * Content rich interior pages
-   * Lots of process photos
-3. **Prototype 3: Goal Oriented**
-   * Animated header cycling through "Build and Scale Software, Solve Complex Problems, Reach Your Goals"
-   * Highlights 4 projects, with project pages
-   * Graphs/data heavy
-   * Company bio in footer
+### Prototype 1: Experimental Form
 
-### Day 4: Prototype
+* A large conversational form instead of a hero image
+* Quick description of our process, how it relates to a client
+* Testimonials
+* About Us with photo
+
+### Prototype 2: Process Oriented
+
+* Shows how we work and what we value
+* Content rich interior pages
+* Lots of process photos
+
+### Prototype 3: Goal Oriented
+
+* Animated header cycling through "Build and Scale Software, Solve Complex Problems, Reach Your Goals"
+* Highlights 4 projects, with project pages
+* Graphs/data heavy
+* Company bio in footer
+
+## Day 4: Prototype
 
 I made [Prototype 1](https://sfroehner.github.io/Round1-a/) with Bootstrap and Typeform and [Prototype 2](https://invis.io/RV7BQNKKQ) and [Prototype 3](https://invis.io/UN79DZLCB) with InVision.
 
-### Day 5 and Beyond: Testing
+## Day 5: Testing
 
 I wrote a screener for UserTesting.com and ran several rounds of user tests for the 3 prototypes. This round rigidly explored how we should present our point of view.
 
-#### Results:
+### Results:
 
-##### Prototype 1: Experimental Form
+#### Prototype 1: Experimental Form
 
 ![Experimental Form - previewed on a MacBook Air](/uploads/562-1-1.png "Prototype 1")
 
@@ -72,7 +79,7 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 * Ambiguous about our services.
 * Blog wasn't very clear about our personal ideas.
 
-##### Prototype 2: Process Oriented
+#### Prototype 2: Process Oriented
 
 ![Process Oriented - previewed on a MacBook.](/uploads/562-2.png "Prototype 2")
 
@@ -81,7 +88,7 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 * Testimonials give more credibility
 * Ambiguous about who we are and what we did for clients.
 
-##### Prototype 3: Goal Oriented
+#### Prototype 3: Goal Oriented
 
 ![Goal Oriented - previewed on a MacBook](/uploads/562-3.png "Prototype 3")
 
@@ -90,7 +97,7 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 * Project pages need more content, like testimonials, screenshots, and our process.
 * Browsing experience was disjointed. Users wanted to see a traditional "Services" and "About" pages.
 
-#### Overall:
+### Overall:
 
 * Credibility on all 3 was low. We need more content.
 * Need an About page
@@ -102,11 +109,11 @@ I wrote a screener for UserTesting.com and ran several rounds of user tests for 
 * All 3 prototypes had positive reactions. Users basically wanted to see all this content when searching for an agency.
 * The Bootstrap prototype tested better than the InVision prototypes.
 
-#### Round 2:
+# Round 2
 
 I took the findings from Round 1 and I used Bootstrap to make a [larger website](http://beta.fivesixtwo.com/) that included the effective parts from each prototype. I wrote 4 case studies, talking to developers and the CEO as needed. For this round, I also had users review two competitor sites.
 
-##### Findings:
+## Findings:
 
 * Users spend most of their time on the homepage.
 * All claims and testimonials need sources.
@@ -116,9 +123,9 @@ I took the findings from Round 1 and I used Bootstrap to make a [larger website]
 * The form from the first prototype is still memorable as "really clever" and a surprising "human touch." It is now on a Contact page and we have a paid version of Typeform so users stay on the site and are no longer confused.
 * FiveSixTwo "branding" (it was not branded) is too generic.
 
-#### Round 3 and Beyond
+# Round 3 and Beyond
 
 I worked with a developer to make the Bootstrap prototype a "real" website. FiveSixTwo brought in a Sales Director to add more content, a blog, and a Field Service landing page/site experience.
 
 * **Employer:** FiveSixTwo, Inc.
-* **Additional Roles:** Interaction Design, Prototyping, User Testing
+* **Additional Categories:** Interaction Design, Prototyping, User Testing
