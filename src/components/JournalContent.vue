@@ -22,7 +22,9 @@ h2 {
     font-size: 2rem;
 }
 h3 {
-    font-size: 1.5rem;
+    font-family: 'Pirata One', cursive;
+    font-size: 3rem;
+    font-weight:400;
 }
 h4, h5, h6 {
     font-size: 1.15rem;
