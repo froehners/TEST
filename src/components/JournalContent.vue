@@ -16,7 +16,7 @@ export default {
 <style>
 p {
     line-height: 1.5;
-    font-size: 1.15rem;
+    font-size: 1.5rem;
 }
 h2 {
     font-size: 2rem;
