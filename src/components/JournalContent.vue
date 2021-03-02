@@ -20,10 +20,11 @@ p {
 }
 h1 {
     font-family: 'Pirata One', cursive;
-    font-size: 2rem;
+    font-weight: 400;
+    font-size: 3rem;
 }
 h2 {
-    font-size: 1.5rem;
+    font-size: 2.25rem;
     font-weight: 400;
 }
 h3 {
@@ -32,7 +33,7 @@ h3 {
     font-weight:400;
 }
 h4, h5, h6 {
-    font-size: 1.333rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 

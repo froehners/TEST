@@ -50,7 +50,7 @@ export default {
   font-family: 'Pirata One', cursive;
   font-size: 2rem;
   color: var(--color-contrast);
-  margin: 2rem 0 1rem 0;
+  margin: 2rem 0 .5rem 0;
 }
 .categories {
   font-size: 0.9rem;
