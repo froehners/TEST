@@ -28,7 +28,7 @@ project_fg_color: ''
 * **Musicians, artists & writers:** protect their songs, scripts, books, etc. and prevent others from copying or profiting off their work.
 * **Inventors:** claim their new product, invest in protecting their work now, for future benefits/gains.
 
-### Company Goals
+### Business Goals
 
 * Customer understands the product offering and **purchases the correct service** for their needs.
 * Customer is able to purchase & complete their application **without Customer Care assistance.**
