@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
+        <h1 class="contact-title">Get in Touch</h1>
         <p>Hi there! Fill out the form below or connect on <a href="https://www.linkedin.com/in/sfroehner/">LinkedIn</a>.</p>
       </div>
 
@@ -43,6 +43,7 @@ export default {}
 }
 .contact-title {
   font-family: 'Pirata One', cursive;
+  font-weight: 400;
   font-size: 4rem;
   margin: 0 0 4rem 0;
   padding: 0;
@@ -87,8 +88,8 @@ textarea {
   margin-top: 2rem;
   cursor: pointer;
   transition: opacity 0.25s ease;
-  font-size: 500;
-  letter-spacing: 0.035em;
+  font-weight: 500;
+  font-family: 'Cabin', sans-serif;
 }
 .button:hover {
   opacity: 0.6;
