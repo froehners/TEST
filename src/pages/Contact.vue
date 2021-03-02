@@ -60,6 +60,9 @@ export default {}
 .sender-info > div:last-of-type {
   margin: 0;
 }
+.label{
+  font-size: 1.125rem;
+}
 input:focus,textarea:focus {
   border-color: var(--color-contrast-1);
 }
