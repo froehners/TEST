@@ -32,7 +32,7 @@ body {
   font-family: 'Cabin', sans-serif;
   margin:0;
   padding: 0;
-  font-size: 16px;
+  font-size: 24px;
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
