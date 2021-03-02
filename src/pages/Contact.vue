@@ -4,18 +4,18 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <p>Hi there! Fill out the form below or connect on <a href="https://www.linkedin.com/in/sfroehner/">LinkedIn</a>.</p>
       </div>
 
       <form class="contact-form" name="contact">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Name</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
+            <label for="email" class="label">Email address</label>
             <input type="email" name="email" />
           </div>
         </div>
@@ -25,7 +25,7 @@
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Send it!</button>
 
       </form>
 
@@ -42,6 +42,7 @@ export default {}
   padding: 2rem 0 4rem 0;
 }
 .contact-title {
+  font-family: 'Pirata One', cursive;
   font-size: 4rem;
   margin: 0 0 4rem 0;
   padding: 0;
@@ -80,7 +81,7 @@ textarea {
   background: var(--color-contrast);
   outline: none;
   border: 0;
-  font-size: 0.8rem;
+  font-size: 1.5rem;
   padding: 0.8rem 1.6rem;
   border-radius: 0.3rem;
   margin-top: 2rem;
