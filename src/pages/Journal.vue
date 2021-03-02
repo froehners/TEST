@@ -93,8 +93,7 @@ export default {
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
-  font-weight: 500;
-  font-size: 1.125rem;
+  font-weight: 400;
 }
 
 @media (min-width: 560px) {
