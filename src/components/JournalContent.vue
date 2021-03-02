@@ -18,15 +18,21 @@ p {
     line-height: 1.5;
     font-size: 1.5rem;
 }
-h2 {
+h1 {
+    font-family: 'Pirata One', cursive;
     font-size: 2rem;
+}
+h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
 }
 h3 {
     font-family: 'Pirata One', cursive;
-    font-size: 3rem;
+    font-size: 1.5rem;
     font-weight:400;
 }
 h4, h5, h6 {
-    font-size: 1.15rem;
+    font-size: 1.333rem;
+    font-weight: 700;
 }
 </style>
