@@ -35,4 +35,8 @@ h4, h5, h6 {
     font-size: 1.333rem;
     font-weight: 700;
 }
+
+.project-title {
+    font-family: 'Cabin', sans-serif;
+}
 </style>
