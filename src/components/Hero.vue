@@ -16,6 +16,9 @@ export default {
 </script>
 
 <style>
+body {
+    background: var(--color-base-2);
+}
 .hero {
     text-align: center;
     width: 66.66%;

@@ -34,12 +34,6 @@ query Posts {
 }
 </page-query>
 
-<style scoped>
-  body {
-    background: var(--color-base-2);
-    }
-</style>
-
 <script>
 import Hero from "@/components/Hero"
 import ProjectsGrid from "@/components/ProjectsGrid"
@@ -53,5 +47,3 @@ export default {
   }
 }
 </script>
-
-
