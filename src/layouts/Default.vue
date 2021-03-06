@@ -25,10 +25,13 @@ export default {
 }
 
 body {
-  --color-base: rgb(255, 255, 255);
-  --color-base-1: rgb(243, 243, 243);
-  --color-contrast: rgb(0, 0, 0);
-  --color-contrast-1: rgb(43, 43, 43);
+  --color-base-1: rgb(0, 0, 0);
+  --color-base-2: rgb(255, 230, 230);
+  --color-base-3: rgb(189, 240, 231);
+  --color-contrast-1: rgb(0, 20, 9);
+  --color-contrast-50: rgb(128, 138, 132);
+  --color-contrast-2: rgb(0, 82, 35);
+  --color-contrast-3: rgb(255, 140, 140);
   font-family: 'Cabin', sans-serif;
   margin:0;
   padding: 0;

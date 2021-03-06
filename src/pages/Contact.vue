@@ -64,11 +64,11 @@ export default {}
   font-size: 1.125rem;
 }
 input:focus,textarea:focus {
-  border-color: var(--color-contrast-1);
+  border-color: var(--color-contrast-3);
 }
 input,textarea {
   background: transparent;
-  border: 1px solid var(--color-base-1);
+  border: 1px solid var(--color-contrast-50);
   outline: none;
   border-radius: 0.3rem;
   padding: 0.8rem 1rem;
@@ -81,8 +81,8 @@ textarea {
   height: 140px;
 }
 .button {
-  color: var(--color-base);
-  background: var(--color-contrast);
+  color: var(--color-contrast-1);
+  background: var(--color-base-3);
   outline: none;
   border: 0;
   font-size: 1.5rem;
@@ -98,7 +98,7 @@ textarea {
   opacity: 0.6;
 }
 .button:focus {
-  border: 1px solid var(--color-base-1);
+  border: 1px solid var(--color-contrast-2);
 }
 </style>
 
