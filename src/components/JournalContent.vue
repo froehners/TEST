@@ -18,7 +18,7 @@ p {
     line-height: 1.5;
     font-size: 1.5rem;
 }
-li p a {
+a {
     color: var(--color-contrast-2);
 }
 h1 {
