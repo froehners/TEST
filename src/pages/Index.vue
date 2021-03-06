@@ -47,3 +47,9 @@ export default {
   }
 }
 </script>
+
+<style>
+body {
+    background: var(--color-base-2);
+}
+</style>

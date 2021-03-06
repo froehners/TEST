@@ -18,6 +18,9 @@ p {
     line-height: 1.5;
     font-size: 1.5rem;
 }
+a {
+    color: var(--color-contrast-2);
+}
 h1 {
     font-family: 'Pirata One', cursive;
     font-weight: 400;

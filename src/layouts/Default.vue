@@ -67,7 +67,7 @@ h1 {
 }
 
 a {
-  color: var(--color-contrast-2);
+  color: inherit;
 }
 
 img {
