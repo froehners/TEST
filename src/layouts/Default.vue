@@ -36,8 +36,8 @@ body {
   margin:0;
   padding: 0;
   font-size: 24px;
-  background: var(--color-base);
-  color: var(--color-contrast);
+  background: var(--color-base-1);
+  color: var(--color-contrast-1);
   transition: background 0.5s ease;
 }
 

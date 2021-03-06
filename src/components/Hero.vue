@@ -26,6 +26,7 @@ export default {
 
 .hero-title {
     font-family: 'Pirata One', cursive;
+    color: var(--color-contrast-1);
     font-size: 10rem;
     font-weight: 400;
     padding: 0;
@@ -33,7 +34,7 @@ export default {
 }
 .hero-title p,
 .hero-subtitle p {
-    margin: 0;
+    margin: -8rem 0 0 0;
     padding: 0;
 }
 .hero-subtitle {
