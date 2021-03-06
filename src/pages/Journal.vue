@@ -64,6 +64,7 @@ export default {
   font-size: 0.875rem;
   font-weight: 700;
   text-align: right;
+  color: var(--color-contrast-50);
 }
 .journal-post {
   display: block;
@@ -75,7 +76,7 @@ export default {
   transition: transform 0.5s ease;
 }
 .journal-post:hover {
-  background-color: var(--color-base-1);
+  background-color: var(--color-base-3);
 }
 .journal-post:hover > * {
   transform: translateX(4rem);
@@ -89,7 +90,7 @@ export default {
   font-family: 'Pirata One', cursive;
   font-weight: 400;
   font-size: 3rem;
-  color: var(--color-contrast);
+  color: var(--color-contrast-1);
 }
 .journal-excerpt {
   color: var(--color-contrast-1);
