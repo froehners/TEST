@@ -26,7 +26,7 @@ export default {
 
 .hero-title {
     font-family: 'Pirata One', cursive;
-    color: var(--color-base-1);
+    color: var(--color-contrast-3);
     font-size: 10rem;
     font-weight: 400;
     padding: 0;
