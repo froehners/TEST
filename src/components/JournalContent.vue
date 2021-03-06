@@ -33,6 +33,7 @@ h2 {
 h3 {
     font-family: 'Pirata One', cursive;
     font-size: 1.5rem;
+    color: var(--color-contrast-50);
     font-weight:400;
 }
 h4, h5, h6 {

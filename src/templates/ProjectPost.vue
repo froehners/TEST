@@ -93,7 +93,4 @@ export default {
   -webkit-text-stroke: 1px #FF8C8C;
   font-size: 3rem;
 }
-h3 {
-  color: var(--color-contrast-50);
-}
 </style>
