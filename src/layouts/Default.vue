@@ -41,13 +41,6 @@ body {
   transition: background 0.5s ease;
 }
 
-body.dark {
-  --color-base: rgb(0, 0, 0);
-  --color-base-1: rgb(43, 43, 43);
-  --color-contrast: rgb(255, 255, 255);
-  --color-contrast-1: rgb(243, 243, 243);
-}
-
 h1 {
   letter-spacing: -0.01em;
   font-family: 'Cabin', sans-serif;
