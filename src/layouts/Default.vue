@@ -74,7 +74,7 @@ h1 {
 }
 
 a {
-  color: inherit;
+  color: var(--color-contrast-2);
 }
 
 img {
