@@ -39,7 +39,7 @@ export default {}
 
 <style scoped>
 .contact-header {
-  padding: 2rem 0 4rem 0;
+  padding: 4rem 0 4rem 0;
 }
 .contact-title {
   font-family: 'Pirata One', cursive;
