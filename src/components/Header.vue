@@ -74,6 +74,7 @@ export default {
     border-color: transparent;
     transition: border 0.15s;
     color: var(--color-contrast-3); 
+    transform-origin: 0 0;
     transform: rotate(-12deg);
 }
 .nav > *:last-of-type {
