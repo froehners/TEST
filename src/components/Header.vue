@@ -73,6 +73,8 @@ export default {
     border-bottom: 1px solid;
     border-color: transparent;
     transition: border 0.15s;
+    color: var(--color-contrast-3); 
+    transform: rotate(-12deg);
 }
 .nav > *:last-of-type {
     margin: 0;
