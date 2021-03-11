@@ -40,13 +40,13 @@ export default {
     top: 0;
     left: 0;
     width: 100%;
+    background-color: var(--color-base-2);
 }
 .header > .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 100%;
-    background-color: var(--color-base-2);
 }
 .home-link {
     text-decoration: none;
