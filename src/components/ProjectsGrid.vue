@@ -28,6 +28,11 @@ export default {
 </script>
 
 <style scoped>
+
+body {
+  background: var(--color-base-2);
+  }
+
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr;
