@@ -16,6 +16,11 @@ export default {
 </script>
 
 <style>
+
+body {
+  background-color: var(--color-base-2);
+  }
+
 .hero {
     text-align: center;
     width: 66.66%;
@@ -30,7 +35,7 @@ export default {
     font-size: 10rem;
     font-weight: 400;
     padding: 0;
-    margin: 0 0 2rem 0;
+    margin: 4rem 0 2rem 0;
 }
 .hero-title p,
 .hero-subtitle p {

@@ -29,10 +29,6 @@ export default {
 
 <style scoped>
 
-body {
-  background-color: var(--color-base-2);
-  }
-
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr;
