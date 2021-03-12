@@ -2,7 +2,7 @@
     <footer class="footer">
         <div class="container">
             <span v-html="settings.footer" />
-            <p>Lovingly built with Forestry, Netlify & Gridsome. Designed in Figma.</p>
+            <p>Lovingly built with <a href="https://forestry.io/">Forestry</a>, <a href="https://www.netlify.com/">Netlify</a>, & <a href="https://gridsome.org/">Gridsome</a>. Designed in <a href="https://www.figma.com/file/tD7k741tWE0gOv1Hv4yEn0/2021-Working?node-id=33%3A5">Figma</a>.</p>
         </div>
     </footer>
 </template>
@@ -22,5 +22,13 @@ export default {
     font-size: 0.875rem;
     font-weight: 700;
     padding: 6rem 0;
+}
+
+.footer p {
+    font-size: 0.875rem;
+}
+
+.footer a {
+    color: var(--color-contrast-3);
 }
 </style>
