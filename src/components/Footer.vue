@@ -26,6 +26,8 @@ export default {
 
 .footer p {
     font-size: 0.875rem;
+    margin-top: 0;
+    float: right;
 }
 
 .footer a {
