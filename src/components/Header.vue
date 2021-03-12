@@ -70,12 +70,10 @@ export default {
     margin-top: 4px;
     margin-right: 3rem;
     padding-bottom: 4px;
-    border-bottom: 1px solid;
+    border-bottom: 2px solid;
     border-color: transparent;
     transition: border 0.15s;
     color: var(--color-contrast-3); 
-    transform-origin: 0 0;
-    transform: rotate(-12deg);
 }
 .nav > *:last-of-type {
     margin: 0;
