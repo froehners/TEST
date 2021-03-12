@@ -33,7 +33,8 @@ export default {
 .footer a {
     color: var(--color-contrast-3);
     text-decoration: none;
-    border-bottom: 1px solid;
+    padding-bottom: 4px;
+    border-bottom: 2px solid;
     border-color: transparent;
     transition: border 0.15s;
 }
