@@ -2,7 +2,7 @@
     <footer class="footer">
         <div class="container">
             <span v-html="settings.footer" />
-            <p>Lovingly built with <a href="https://forestry.io/">Forestry</a>, <a href="https://www.netlify.com/">Netlify</a>, & <a href="https://gridsome.org/">Gridsome</a>. Designed in <a href="https://www.figma.com/file/tD7k741tWE0gOv1Hv4yEn0/2021-Working?node-id=33%3A5">Figma</a>.</p>
+            <p>Lovingly built with <a href="https://forestry.io/" target="_blank">Forestry</a>, <a href="https://www.netlify.com/" target="_blank">Netlify</a>, & <a href="https://gridsome.org/" target="_blank">Gridsome</a>. Designed in <a href="https://www.figma.com/file/tD7k741tWE0gOv1Hv4yEn0/2021-Working?node-id=33%3A5" target="_blank">Figma</a>.</p>
         </div>
     </footer>
 </template>
