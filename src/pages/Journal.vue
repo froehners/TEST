@@ -46,6 +46,11 @@ export default {
 </script>
 
 <style scoped>
+
+body {
+  background-color: var(--color-base-1);
+  }
+
 .container.journal {
   max-width: 720px;
 }
