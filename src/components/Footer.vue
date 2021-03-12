@@ -33,13 +33,5 @@ export default {
 .footer a {
     color: var(--color-contrast-3);
     text-decoration: none;
-    padding-bottom: 4px;
-    border-bottom: 1px solid;
-    border-color: transparent;
-    transition: border 0.15s;
-}
-
-.footer a: hover {
-    border-color: var(--color-base-3);
 }
 </style>
