@@ -30,7 +30,7 @@ export default {
 <style scoped>
 
 body {
-  background: var(--color-base-2);
+  background-color: var(--color-base-2);
   }
 
 .projects {
