@@ -67,7 +67,7 @@ input:focus,textarea:focus {
   border-color: var(--color-contrast-3);
 }
 input,textarea {
-  background: transparent;
+  background: var(--color-base-1);
   border: 1px solid var(--color-contrast-50);
   outline: none;
   border-radius: 0.3rem;
