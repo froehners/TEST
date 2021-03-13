@@ -83,7 +83,7 @@ export default {
     border-color: inherit;
 }
 .nav > .active {
+    color: var(--color-contrast-2);
     border-color: inherit;
-    transform: rotate(-12deg);
 }
 </style>
