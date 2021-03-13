@@ -30,6 +30,9 @@ export default {
 </script>
 
 <style scoped>
+.right{transform: rotate(-12deg);
+}
+
 .header {
     position: relative;
     height: 6rem;
