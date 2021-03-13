@@ -11,8 +11,8 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="tilt nav__link" to="/journal">Notes</g-link>
-                <g-link class="tilt nav__link" to="/contact">Contact</g-link>
+                <g-link class="nav__link" to="/journal">Notes</g-link>
+                <g-link class="nav__link" to="/contact">Contact</g-link>
             </nav>
         </div>
     </header>
@@ -30,8 +30,6 @@ export default {
 </script>
 
 <style scoped>
-.tilt {transform: rotate(-12deg);
-}
 
 .header {
     position: relative;
@@ -86,5 +84,6 @@ export default {
 }
 .nav > .active {
     border-color: inherit;
+    transform: rotate(-12deg);
 }
 </style>
