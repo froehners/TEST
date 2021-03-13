@@ -56,6 +56,9 @@ export default {
     height: 2rem;
     margin-top: 0.5rem;
 }
+.logo:hover {
+    fill: #DB5858;
+}
 .site-name {
     font-size: 0.9rem;
     font-weight: 700;
