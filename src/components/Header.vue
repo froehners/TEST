@@ -58,6 +58,7 @@ export default {
 }
 .logo:hover {
     fill: #DB5858;
+    opacity: 1;
 }
 .site-name {
     font-size: 0.9rem;
