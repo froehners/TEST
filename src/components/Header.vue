@@ -11,8 +11,8 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link" to="/journal">Notes</g-link>
-                <g-link class="nav__link" to="/contact">Contact</g-link>
+                <g-link class="nav__link tilt" to="/journal">Notes</g-link>
+                <g-link class="nav__link tilt" to="/contact">Contact</g-link>
             </nav>
         </div>
     </header>
@@ -30,7 +30,7 @@ export default {
 </script>
 
 <style scoped>
-.right{transform: rotate(-12deg);
+.tilt {transform: rotate(-12deg);
 }
 
 .header {
