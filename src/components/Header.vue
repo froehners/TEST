@@ -11,8 +11,8 @@
                 </g-link>
             </div>
             <nav class="nav right">
-                <g-link class="nav__link tilt" to="/journal">Notes</g-link>
-                <g-link class="nav__link tilt" to="/contact">Contact</g-link>
+                <g-link class="tilt nav__link" to="/journal">Notes</g-link>
+                <g-link class="tilt nav__link" to="/contact">Contact</g-link>
             </nav>
         </div>
     </header>
