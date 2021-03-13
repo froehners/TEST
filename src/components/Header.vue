@@ -52,13 +52,12 @@ export default {
 .home-link {
     text-decoration: none;
 }
+.home-link:hover {
+    fill: #DB5858;
+}
 .logo {
     height: 2rem;
     margin-top: 0.5rem;
-}
-.logo:hover {
-    fill: #DB5858;
-    opacity: 1;
 }
 .site-name {
     font-size: 0.9rem;
