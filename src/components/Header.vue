@@ -52,9 +52,7 @@ export default {
 .home-link {
     text-decoration: none;
 }
-.home-link:hover {
-    fill: #DB5858;
-}
+
 .logo {
     height: 2rem;
     margin-top: 0.5rem;
