@@ -3,14 +3,15 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">About Me</h1>
-        <p>I’m a designer.</p>
+        <h1 class="contact-title">I’m a designer.</h1>
+      
         <p>I solve problems with curiosity. That means research, observation, conversations and co-creation with my users, cross-functional collaboration with my team, and lots of experimentation.</p>
         <p>I like working in complex industries (currently health, previously legal, and traffic control services) and thinking about large-scale work that results in making someone’s day a little easier, their job a little better, or their dream a little closer to reality. </p>
         <p>In my 8+ year career, I’ve been a bit of a Goldilocks and alternated between small startups and large corporations. I’ve been the first designer and built a design team, and I’ve joined a large group of design specialists. I’m currently at that “just right” company size and design team maturity at Cityblock Health as a Senior Product Designer.</p>
         <p>I miss managing designers, and I still love being an individual contributor. I hope to “Goldilocks” again in my next role and find the right balance of management and product design.</p>
         <p>I’ve been a “heads down” kind of designer for much of my career. In 2022, I’m learning to work more in public and scale my work beyond digital products.</p>
         <p>Also, I play competitive roller derby, and I <i>really</i> like dogs. Thank you for reading!</p>
+        <p></p>
         <p>If you’d like to get in touch, please fill out the form below or connect on <a href="https://www.linkedin.com/in/sfroehner/">LinkedIn</a>.</p>
       </div>
 
