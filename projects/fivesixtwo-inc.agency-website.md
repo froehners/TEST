@@ -1,6 +1,6 @@
 ---
 date: 2017-01-01
-thumbnail: "/uploads/562temp.png"
+thumbnail: "/uploads/562-1-2x.png"
 title: FiveSixTwo, Inc. Agency Website
 subtitle: Google Design Sprint
 categories:
