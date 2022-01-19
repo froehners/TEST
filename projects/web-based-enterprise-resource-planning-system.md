@@ -1,6 +1,6 @@
 ---
 date: 2016-01-01
-thumbnail: "/uploads/m-unity-2x.png"
+thumbnail: "/uploads/unity-1-2x.png"
 title: Web-based Enterprise Resource Planning System
 subtitle: I lead the redesign of complex, data-heavy workflows and modules to drive
   the business leader of a complicated industry - traffic management.
