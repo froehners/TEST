@@ -1,6 +1,6 @@
 ---
 date: 2013-01-01
-thumbnail: "/uploads/wellcast.gif"
+thumbnail: "/uploads/wellcast-1.gif"
 title: WellCast Youtube Channel for Teens
 categories:
 - Content Strategy
